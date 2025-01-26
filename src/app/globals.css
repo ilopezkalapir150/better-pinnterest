@@ -1,4 +1,24 @@
-:root {
+body {
+  background-color: #F4F0EA;
+}
+
+nav {
+  background-color: aqua;
+  height: 80px;
+  /* background: #fff; */
+  display: flex;
+  padding-left: 30px;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  /* padding: 0rem calc((100vw - 1300px)/2); */
+}
+
+nav h1 {
+  color: #D92F11;
+  font-size: 30px;
+}
+
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -39,4 +59,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */
